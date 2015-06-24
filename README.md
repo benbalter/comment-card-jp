@@ -1,4 +1,4 @@
-# Comment Card
+# Comment Card JP
 
 *Comment card provides a simplified interface for non-technical users — both authenticated and pseudonymous — to provide feedback for your GitHub-hosted project (in the form of GitHub issues)*
 
